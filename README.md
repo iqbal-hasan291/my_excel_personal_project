@@ -1,12 +1,10 @@
-# my excel project
+# My Excel Project
 
 # 1. Personal Financial Tracker Dashboard (Jan–Oct 2025)
 
 ## Overview  
 The **Personal Financial Tracker Dashboard** is an Excel-based project designed to monitor income, expenses, and net savings across ten months (January–October 2025).  
 Although the dataset is **fictional**, it simulates real-world financial behavior — helping individuals understand where their money goes, identify spending patterns, and plan smarter savings strategies.
-
----
 
 ## Problem Statement  
 Many people struggle to track their money efficiently. Bank and mobile transactions often pile up, making it difficult to know:  
@@ -16,7 +14,6 @@ Many people struggle to track their money efficiently. Bank and mobile transacti
 
 This project solves that problem by building a **data-driven financial tracker** that consolidates all transactions, categorizes them, and visualizes spending habits for better decision-making.
 
----
 
 ## Workflow  
 
@@ -61,8 +58,6 @@ This project solves that problem by building a **data-driven financial tracker**
 - Visual tracking improved awareness of monthly spending habits.  
 - Helped identify high-cost areas for optimization.  
 - Demonstrated how data analytics supports **personal financial discipline**.  
-
----
 
 
 ##  Outcome  
