@@ -94,8 +94,30 @@ The challenge was to develop a tool that not only identifies these risks but als
 The Risk Tracker demonstrates how Excel can be leveraged for **strategic decision-making**, not just data entry.  
 It provides a clear, data-driven view of operational risks, empowering businesses to take proactive action against potential threats.  
 
----
-
 **Tools Used:** Excel, Conditional Formatting, INDEX-MATCH, Data Visualization  
-**Domain:** E-commerce Risk Management  
+**Domain:** E-commerce Risk Management 
+
+---
+# 3. Task Management Tracker (Bangladeshi E-commerce Project)
+
+##  Overview
+This Excel-based **Task Management Tracker** is designed to monitor daily task progress, deadlines, and ownership across multiple teams in a Bangladeshi e-commerce organization. It helps managers and analysts identify overdue tasks, track workload distribution, and improve operational efficiency.
+
+
+
+##  Problem Statement
+In fast-paced e-commerce operations, it’s easy for deadlines to slip and accountability to blur. Teams often struggle to see which tasks are late, who owns them, and how workloads are distributed.  
+This tracker solves that by **centralizing task data** and **automatically flagging overdue tasks**.
+
+
+##  Tools & Technology
+- **Microsoft Excel** (main tool)  
+- Functions: `IF()`, `TODAY()`, `AND()`, `OR()`, `COUNTIF()`  
+- **Conditional Formatting** for overdue task highlighting  
+- Multiple **tabs** for data and summary
+
+## ⚙️ Workflow
+![](https://github.com/iqbal-hasan291/my_excel_personal_project/blob/79c081bd8379bd692c84a34619a7b6854ba5a653/img/task_tracker.png)
+
+
 
