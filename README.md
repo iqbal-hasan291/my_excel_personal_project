@@ -1,6 +1,6 @@
 # my excel project
 
-# 🧾 Personal Financial Tracker Dashboard (Jan–Oct 2025)
+# 1. Personal Financial Tracker Dashboard (Jan–Oct 2025)
 
 ## Overview  
 The **Personal Financial Tracker Dashboard** is an Excel-based project designed to monitor income, expenses, and net savings across ten months (January–October 2025).  
@@ -43,7 +43,7 @@ This project solves that problem by building a **data-driven financial tracker**
 
 ---
 
-## 💡 Insights  
+## Insights  
 
 | Metric | Value |
 |--------|--------|
@@ -65,10 +65,42 @@ This project solves that problem by building a **data-driven financial tracker**
 ---
 
 
-## 📈 Outcome  
+##  Outcome  
 A fully automated and visualized **Excel Financial Dashboard** that gives a real-time snapshot of income, expenses, and savings — empowering users to make **data-backed financial decisions** every month.
 
 ---
 
-## 📂 Project Structure  
+# 2. E-commerce Risk Assessment Tracker
+
+##  Overview  
+This project focuses on identifying and analyzing potential business risks in an e-commerce environment.  
+The **Risk Assessment Tracker** is designed in Excel to help decision-makers visualize and mitigate high-risk areas before they cause major disruptions.  
+
+##  Problem Statement  
+E-commerce companies face multiple operational, financial, and technological risks that can affect performance and customer trust.  
+The challenge was to develop a tool that not only identifies these risks but also quantifies their impact and likelihood for better management decisions.  
+
+##  Workflow  
+1. Created a structured dataset with risk name, description, responsible manager, probability, and impact.  
+2. Designed **Impact** and **Probability** tables to classify each risk based on text-level criteria.  
+3. Used **INDEX-MATCH** formulas to calculate the overall **Risk Level** automatically.  
+4. Built an interactive **Risk Assessment Chart** to visually highlight which managers are in high or low-risk zones.  
+
+![](https://github.com/iqbal-hasan291/my_excel_personal_project/blob/beeba87298b49b48f296eb8a0520fbad0053eb59/img/risk_tracker01.png)
+
+![](https://github.com/iqbal-hasan291/my_excel_personal_project/blob/beeba87298b49b48f296eb8a0520fbad0053eb59/img/risk_tracker02.png)
+
+## Insights  
+- *Rafiul Islam* and *Mehedi Hasan* are in low-risk positions.  
+- *Nusrat Jahan, Fahim Reza,* and *Naimul Huda* are managing critical risk areas.  
+- The visual heatmap helps management quickly identify where immediate actions are required.  
+
+## Outcome  
+The Risk Tracker demonstrates how Excel can be leveraged for **strategic decision-making**, not just data entry.  
+It provides a clear, data-driven view of operational risks, empowering businesses to take proactive action against potential threats.  
+
+---
+
+**Tools Used:** Excel, Conditional Formatting, INDEX-MATCH, Data Visualization  
+**Domain:** E-commerce Risk Management  
 
