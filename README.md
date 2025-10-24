@@ -119,5 +119,29 @@ This tracker solves that by **centralizing task data** and **automatically flagg
 ## ⚙️ Workflow
 ![](https://github.com/iqbal-hasan291/my_excel_personal_project/blob/79c081bd8379bd692c84a34619a7b6854ba5a653/img/task_tracker.png)
 
+---
+# 4.My Financial Consumer Complaints Dashboard
+## Overview
+From Raw Data to Real Insights – My Financial Consumer Complaints Dashboard Journey
+
+When I first started this Maven Analytics project, it wasn’t just about building a dashboard. It was about understanding how data can truly speak for consumers.
+I worked on 3 key levels:
+
+ 1️⃣ Calculating Top-Level KPIs – learning how to extract the numbers that really matter.
+
+ 2️⃣ Visualizing the Weekly Trend – figuring out how to make patterns visible, not hidden in tables.
+
+ 3️⃣ Finalizing the Report – transforming raw metrics into a clear, decision-ready story.
+
+This project taught me how to think like a business. Every complaint is more than a number; it’s a customer’s voice. Learning to track and visualize these complaints helped me understand how organizations monitor service quality, measure responsiveness, and build trust with their customers.
+
+## Tools I used:
+Excel 
+
+## Focused on: 
+KPI design, trend analysis, and interactive reporting
+
+I’m proud of how far I’ve come on this one — and even more excited to apply these analytical skills in real business environments.
+
 
 
