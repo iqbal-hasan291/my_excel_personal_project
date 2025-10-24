@@ -124,6 +124,8 @@ This tracker solves that by **centralizing task data** and **automatically flagg
 ## Overview
 From Raw Data to Real Insights – My Financial Consumer Complaints Dashboard Journey
 
+![](https://github.com/iqbal-hasan291/my_excel_personal_project/blob/c03a78ccddd9197a6739bf2adeb4a81e4aa3f460/consumer%20Complement.png)
+
 When I first started this Maven Analytics project, it wasn’t just about building a dashboard. It was about understanding how data can truly speak for consumers.
 I worked on 3 key levels:
 
